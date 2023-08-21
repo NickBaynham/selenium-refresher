@@ -16,4 +16,6 @@ mvn clean install
 ## Update pom.xml with the required depencies for test automation.
 - Selenium 3.x API Language bindings library
 - JUnit or TestNG
-- 
+- log4j
+
+
